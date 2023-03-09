@@ -1,4 +1,10 @@
-### Hi there 👋
+#  The Goat Lab 
+
+- 🔭 Kubernetes, Jenkins, Ansible
+- 🌱 OCP
+- 💬 Linux stuff, containers, Jenkins, Ansible, Kubernetes, Cloud architecture
+- 📫 luca@acido.be
+- ⚡ Love music production, sound engineering, keyboards, synth and guitars
 
 <!--
 **theclash8/theclash8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
