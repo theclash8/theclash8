@@ -3,7 +3,7 @@
 - 🔭 Kubernetes, Jenkins, Ansible
 - 🌱 OCP
 - 💬 Linux stuff, containers, Jenkins, Ansible, Kubernetes, Cloud architecture
-- 📫 luca@acido.be
+- 📫 luca@thegoatlab.it
 - ⚡ Love music production, sound engineering, keyboards, synth and guitars
 
 <!--
